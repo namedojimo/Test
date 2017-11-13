@@ -18,5 +18,6 @@ public class JavaLab9 {
         // TODO code application logic here
     }*/
     System.out.println();
+    System.out.println();
     
 }
