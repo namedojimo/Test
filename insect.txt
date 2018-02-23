@@ -1,0 +1,13 @@
+Ant
+Bee
+Butterfly
+Cockroach
+Caterpillar
+Dragonfly
+Fly
+Gnat
+Grasshopper
+Hornet
+Locust
+Louse
+Mosquito
